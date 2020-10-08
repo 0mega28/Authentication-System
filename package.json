@@ -4,8 +4,8 @@
   "description": "This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.",
   "main": "app.js",
   "scripts": {
-      "start" : "node app.js",
-      "dev" : "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
